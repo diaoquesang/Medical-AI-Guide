@@ -14,11 +14,17 @@
 
 ### 3.1. 基础教程 Basic Tutorials
 
+- [Python 教程：从基础语法到实战](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/python.md)
+- [NumPy 教程：Python 科学计算核心库](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/numpy.md)
+- [OpenCV 教程：计算机视觉基础与实战](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/opencv.md)
+- [Pandas 教程：Python 数据分析终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/pandas.md)
 - [Matplotlib 教程：Python 数据可视化终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/matplotlib.md)
+- [PyTorch 教程：深度学习框架快速上手指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/pytorch.md)
 
 ### 3.2. 拓展教程 Expanded Tutorials
 
 - [Python dataclass 教程：简化类定义的利器](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/dataclass.md)
+- [tqdm 教程：Python 进度条库](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/tqdm.md)
 - [Diffusers 教程：扩散模型开发终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/diffusers.md)
 - [MONAI 教程：医学影像AI开发终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/monai.md)
 - 
