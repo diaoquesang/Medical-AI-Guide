@@ -27,7 +27,7 @@
 - [tqdm 教程：Python 进度条库](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/tqdm.md)
 - [Diffusers 教程：扩散模型开发终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/diffusers.md)
 - [MONAI 教程：医学影像AI开发终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/monai.md)
-- 
+
 ## 4. ✒️ 论文写作 Essay Writing
 
 - [LaTeX 教程：高质量文档排版终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/latex.md)
