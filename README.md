@@ -45,7 +45,7 @@
 
 - [LaTeX 教程：高质量文档排版终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/latex.md)  [[🌐 官网链接 Official Website Link]](https://www.latex-project.org/)
 
-# 👍 引用 Citation
+## 👍 引用 Citation
 
 ```
 @misc{medicalaiguide2025,
