@@ -45,7 +45,7 @@
 
 - [LaTeX 教程：高质量文档排版终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/latex.md)  [[🌐 官网链接 Official Website Link]](https://www.latex-project.org/)
 
-## 👍 引用 Citation
+## 👍 Citation
 
 ```
 @misc{medicalaiguide2025,
@@ -56,7 +56,7 @@
 }
 ```
 
-## 📦 其他资源 Other Resources
+## 📦 Other Resources
 
 [1] [A Paper List for Medical Anomaly Detection](https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection), [2] [Bone Suppression in Chest X-Rays: A Deep Survey](https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays), [3] [A Paper List for Prototypical Learning](https://github.com/BeistMedAI/Paper-List-for-Prototypical-Learning), [4] [A Paper List for Cell Detection](https://github.com/li00000011/Paper-List-for-Cell-Detection).
 
