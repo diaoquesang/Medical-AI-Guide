@@ -9,3 +9,5 @@
 ## ⌨️ 代码编写 Coding
 
 ## ✒️ 论文写作 Essay Writing
+
+- [LaTeX 教程：高质量文档排版终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/latex.md)
