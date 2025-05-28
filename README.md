@@ -12,7 +12,7 @@
 
 ## 3. ⌨️ 代码编写 Coding
 
-### 3.1. 基本教程 Basic Tutorials
+### 3.1. 基础教程 Basic Tutorials
 
 - [Matplotlib 教程：Python 数据可视化终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/matplotlib.md)
 
