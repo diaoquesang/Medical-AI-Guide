@@ -154,4 +154,3 @@ for i in tqdm(range(100), bar_format="{l_bar}%s{bar}%s{r_bar}" % (colorama.Fore.
 `tqdm` 是一个轻量级且功能强大的进度条工具，适用于各种需要可视化进度的场景。通过简单的 API 可以快速集成到现有代码中，同时支持丰富的自定义选项。
 
 更多详情请参考 [官方文档](https://github.com/tqdm/tqdm)
-```
