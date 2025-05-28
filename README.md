@@ -44,3 +44,14 @@
 ## 4. ✒️ 论文写作 Essay Writing
 
 - [LaTeX 教程：高质量文档排版终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/latex.md)  [[🌐 官网链接 Official Website Link]](https://www.latex-project.org/)
+
+# 👍 引用 Citation
+
+```
+@misc{medicalaiguide2025,
+      title = {Medical-AI-Guide},
+      author = {Medical-AI-Guide Contributors},
+      year = {2025},
+      howpublished = {\url{https://github.com/diaoquesang/Medical-AI-Guide/}},
+}
+```
