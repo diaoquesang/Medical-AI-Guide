@@ -9,10 +9,9 @@
 - [AMiner 教程：学术资源搜索与学术网络构建指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/aminer.md) [[🌐 官网链接 Official Website Link]](https://www.aminer.cn/)
 
 ## 2. 🎲 环境配置 Environment Configuration
-
-- [Linux 教程：开发者必备技能指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/linux.md)
-- [Conda 教程：Python 环境与包管理终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/conda.md)
-- [pip 教程：Python 包管理终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/pip.md)
+- [Linux 教程：开发者必备技能指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/linux.md) [[🌐 官网链接 Official Website Link]](https://www.linux.org/)
+- [Conda 教程：Python 环境与包管理终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/conda.md)  [[🌐 官网链接 Official Website Link]](https://www.anaconda.com/)
+- [pip 教程：Python 包管理终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/pip.md)  [[🌐 官网链接 Official Website Link]](https://pypi.org/project/pip/)
 
 ## 3. ⌨️ 代码编写 Coding
 
