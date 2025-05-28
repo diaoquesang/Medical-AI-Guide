@@ -55,3 +55,6 @@
       howpublished = {\url{https://github.com/diaoquesang/Medical-AI-Guide/}},
 }
 ```
+## 📦 其他资源 Other Resources
+
+[1] [A Paper List for Medical Anomaly Detection](https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection), [2] [Bone Suppression in Chest X-Rays: A Deep Survey](https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays), [3] [A Paper List for Prototypical Learning](https://github.com/BeistMedAI/Paper-List-for-Prototypical-Learning), [4] [A Paper List for Cell Detection](https://github.com/li00000011/Paper-List-for-Cell-Detection).
