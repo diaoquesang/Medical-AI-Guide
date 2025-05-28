@@ -2,16 +2,26 @@
 
 ### Medical-AI-Guide是一个小白也能看懂的医学人工智能入门指南，我们期望初学者能够通过本指南快速学会医学人工智能科研全过程所需的完整技术栈，欢迎Star、PR与分享🤝！
 
-## 📖 文献阅读 Paper Reading
+## 1. 📖 文献阅读 Paper Reading
 
-## 🎲 环境配置 Environment Configuration
+## 2. 🎲 环境配置 Environment Configuration
 
 - [Linux 教程：开发者必备技能指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/linux.md)
 - [Conda 教程：Python 环境与包管理终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/conda.md)
 - [pip 教程：Python 包管理终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/pip.md)
 
-## ⌨️ 代码编写 Coding
+## 3. ⌨️ 代码编写 Coding
 
-## ✒️ 论文写作 Essay Writing
+### 3.1. 基本教程 Basic Tutorials
+
+- [Matplotlib 教程：Python 数据可视化终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/matplotlib.md)
+
+### 3.2. 拓展教程 Expanded Tutorials
+
+- [Python dataclass 教程：简化类定义的利器](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/dataclass.md)
+- [Diffusers 教程：扩散模型开发终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/diffusers.md)
+- [MONAI 教程：医学影像AI开发终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/monai.md)
+- 
+## 4. ✒️ 论文写作 Essay Writing
 
 - [LaTeX 教程：高质量文档排版终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/latex.md)
