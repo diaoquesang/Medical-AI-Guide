@@ -6,9 +6,9 @@
 
 ## 2. 🎲 环境配置 Environment Configuration
 
-- [Linux 教程：开发者必备技能指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/linux.md)
-- [Conda 教程：Python 环境与包管理终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/conda.md)
-- [pip 教程：Python 包管理终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/pip.md)
+- [Linux 教程：开发者必备技能指南 *Linux Tutorial: A Developer's Guide to Essential Skills*](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/linux.md)
+- [Conda 教程：Python 环境与包管理终极指南 *Conda Tutorial: The Ultimate Guide to Python Environment and Package Management*](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/conda.md)
+- [pip 教程：Python 包管理终极指南 *pip Tutorial: The Ultimate Guide to Python Package Management*](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/pip.md)
 
 ## 3. ⌨️ 代码编写 Coding
 
