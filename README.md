@@ -17,21 +17,21 @@
 
 ### 3.1. 基础教程 Basic Tutorials
 
-- [Python 教程：从基础语法到实战](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/python.md)
-- [NumPy 教程：Python 科学计算核心库](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/numpy.md)
-- [PIL 教程：Python 图像处理终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/pil.md)
-- [OpenCV 教程：计算机视觉基础与实战](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/opencv.md)
-- [Pandas 教程：Python 数据分析终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/pandas.md)
-- [Matplotlib 教程：Python 数据可视化终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/matplotlib.md)
-- [PyTorch 教程：深度学习框架快速上手指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/pytorch.md)
+- [Python 教程：从基础语法到实战](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/python.md)  [[🌐 官网链接 Official Website Link]](https://www.python.org/)
+- [NumPy 教程：Python 科学计算核心库](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/numpy.md)  [[🌐 官网链接 Official Website Link]](https://numpy.org/)
+- [PIL 教程：Python 图像处理终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/pil.md)  [[🌐 官网链接 Official Website Link]](https://python-pillow.github.io/)
+- [OpenCV 教程：计算机视觉基础与实战](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/opencv.md)  [[🌐 官网链接 Official Website Link]](https://opencv.org/)
+- [Pandas 教程：Python 数据分析终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/pandas.md)  [[🌐 官网链接 Official Website Link]](https://pandas.pydata.org/)
+- [Matplotlib 教程：Python 数据可视化终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/matplotlib.md)  [[🌐 官网链接 Official Website Link]](https://matplotlib.org/)
+- [PyTorch 教程：深度学习框架快速上手指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/pytorch.md)  [[🌐 官网链接 Official Website Link]](https://pytorch.org/)
 
 ### 3.2. 拓展教程 Expanded Tutorials
 
-- [Python dataclass 教程：简化类定义的利器](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/dataclass.md)
-- [tqdm 教程：Python 进度条库](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/tqdm.md)
-- [Diffusers 教程：扩散模型开发终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/diffusers.md)
-- [MONAI 教程：医学影像AI开发终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/monai.md)
+- [Python dataclass 教程：简化类定义的利器](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/dataclass.md)  [[🌐 官网链接 Official Website Link]](https://docs.python.org/3/library/dataclasses.html)
+- [tqdm 教程：Python 进度条库](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/tqdm.md)  [[🌐 官网链接 Official Website Link]](https://tqdm.github.io/)
+- [Diffusers 教程：扩散模型开发终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/diffusers.md)  [[🌐 官网链接 Official Website Link]](https://huggingface.co/docs/diffusers/main/zh/index)
+- [MONAI 教程：医学影像AI开发终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/monai.md)  [[🌐 官网链接 Official Website Link]](https://monai.io/)
 
 ## 4. ✒️ 论文写作 Essay Writing
 
-- [LaTeX 教程：高质量文档排版终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/latex.md)
+- [LaTeX 教程：高质量文档排版终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/latex.md)  [[🌐 官网链接 Official Website Link]](https://www.latex-project.org/)
