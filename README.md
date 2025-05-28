@@ -2,6 +2,15 @@
 
 ### Medical-AI-Guide是一个小白也能看懂的医学人工智能入门指南，我们期望初学者能够通过本指南快速学会医学人工智能科研全过程所需的完整技术栈，欢迎Star与分享🤝！欢迎以邮件申请的方式加入贡献者团队：[szhsxhsyf@hdu.edu.cn](mailto:szhsxhsyf@hdu.edu.cn)！
 
+**🦉 贡献者团队成员: [孙逸飞 (22' HDU-ITMO Undergraduate)](https://diaoquesang.github.io/)**
+
+<div>
+<img src="https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection/blob/main/logos/HDU.png" height="45px" href="https://www.hdu.edu.cn/">
+<img src="https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection/blob/main/logos/ITMO.jpg" height="45px" href="https://en.itmo.ru/">
+<img src="https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection/blob/main/logos/SRIBD.png" height="45px" href="https://www.sribd.cn/">
+<img src="https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection/blob/main/logos/CUHK-SZ.png" height="45px" href="https://www.cuhk.edu.cn/zh-hans">
+</div>
+
 ## 1. 📖 文献阅读 Paper Reading
 
 - [Google Scholar 教程：学术资源搜索与管理终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/google%20scholar.md) [[🌐 官网链接 Official Website Link]](https://scholar.google.com/)
