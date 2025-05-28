@@ -4,9 +4,9 @@
 
 ## 1. 📖 文献阅读 Paper Reading
 
-- [Google Scholar 教程：学术资源搜索与管理终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/google%20scholar.md) [[*官网链接 Official Website Link*]](https://scholar.google.com/)
-- [arXiv 教程：学术预印本平台使用指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/arxiv.md) [[*官网链接 Official Website Link*]](https://arxiv.org/)
-- [AMiner 教程：学术资源搜索与学术网络构建指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/aminer.md) [[*官网链接 Official Website Link*]](https://www.aminer.cn/)
+- [Google Scholar 教程：学术资源搜索与管理终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/google%20scholar.md) [[🌐 官网链接 Official Website Link]](https://scholar.google.com/)
+- [arXiv 教程：学术预印本平台使用指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/arxiv.md) [[🌐 官网链接 Official Website Link]](https://arxiv.org/)
+- [AMiner 教程：学术资源搜索与学术网络构建指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/aminer.md) [[🌐 官网链接 Official Website Link]](https://www.aminer.cn/)
 
 ## 2. 🎲 环境配置 Environment Configuration
 
