@@ -1,2 +1,2 @@
-# Medical-Image-Analysis-Guide
+# Medical-AI-Guide
 
