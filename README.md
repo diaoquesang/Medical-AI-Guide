@@ -4,6 +4,8 @@
 
 ## 1. 📖 文献阅读 Paper Reading
 
+- [Google Scholar 教程：学术资源搜索与管理终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/google%20scholar.md) [[*官网链接 Official Website Link*]](https://scholar.google.com/)
+
 ## 2. 🎲 环境配置 Environment Configuration
 
 - [Linux 教程：开发者必备技能指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/linux.md)
