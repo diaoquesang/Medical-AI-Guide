@@ -4,7 +4,7 @@
 
 **欢迎以邮件申请的方式加入贡献者团队📧：[szhsxhsyf@hdu.edu.cn](mailto:szhsxhsyf@hdu.edu.cn)！**
 
-**🦉 贡献者团队成员: [杭电-22本-孙逸飞](https://diaoquesang.github.io/)**
+**🦉 贡献者团队成员：[杭电-22本-孙逸飞](https://diaoquesang.github.io/)**
 
 <div>
 <img src="https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection/blob/main/logos/HDU.png" height="45px" href="https://www.hdu.edu.cn/">
