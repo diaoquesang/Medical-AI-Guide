@@ -16,6 +16,7 @@
 
 - [Python 教程：从基础语法到实战](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/python.md)
 - [NumPy 教程：Python 科学计算核心库](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/numpy.md)
+- [PIL 教程：Python 图像处理终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/pil.md)
 - [OpenCV 教程：计算机视觉基础与实战](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/opencv.md)
 - [Pandas 教程：Python 数据分析终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/pandas.md)
 - [Matplotlib 教程：Python 数据可视化终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/matplotlib.md)
