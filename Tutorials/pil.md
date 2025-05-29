@@ -258,5 +258,4 @@ Pillow 的核心优势在于：
 
 **进一步学习**:
 - [Pillow 官方文档](https://pillow.readthedocs.io/en/stable/)
-- [Python 图像处理教程合集](https://realpython.com/tutorials/images/)
 - 推荐书籍：《Python 图像处理实战》（作者：Michael Crump）
