@@ -2,7 +2,7 @@
 
 **Medical-AI-Guide是一个小白也能看懂的医学人工智能入门指南，我们期望初学者能够通过本指南快速学会医学人工智能科研全过程所需的完整技术栈，欢迎Star、Open Issues与分享🤝！** 
 
-[![Stars](https://img.shields.io/github/stars/diaoquesang/Medical-AI-Guide)](https://github.com/diaoquesang/Medical-AI-Guide) [![Visitors](https://api.visitorbadge.io/api/visitors?path=diaoquesang/Medical-AI-Guide&countColor=%23263759&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=diaoquesang/Medical-AI-Guide)
+[![Stars](https://img.shields.io/github/stars/diaoquesang/Medical-AI-Guide)](https://github.com/diaoquesang/Medical-AI-Guide) [![Stars](https://img.shields.io/github/forks/diaoquesang/Medical-AI-Guide)](https://github.com/diaoquesang/Medical-AI-Guide) [![Visitors](https://api.visitorbadge.io/api/visitors?path=diaoquesang/Medical-AI-Guide&countColor=%23263759&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=diaoquesang/Medical-AI-Guide)
 
 **欢迎以邮件申请的方式加入贡献者团队📧：[szhsxhsyf@hdu.edu.cn](mailto:szhsxhsyf@hdu.edu.cn)！**
 
