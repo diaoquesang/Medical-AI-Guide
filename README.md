@@ -15,10 +15,10 @@
 
 ## 1. 📖 文献阅读 Paper Reading
 
-- Google Scholar 教程：学术资源搜索与管理终极指南 [[🌐 官网链接 Official Website Link]](https://scholar.google.com/)
-- arXiv 教程：学术预印本平台使用指南 [[🌐 官网链接 Official Website Link]](https://arxiv.org/)
-- AMiner 教程：学术资源搜索与学术网络构建指南 [[🌐 官网链接 Official Website Link]](https://www.aminer.cn/)
-- DeepWiki 教程：AI 驱动的代码分析与交互式文档工具 [[🌐 官网链接 Official Website Link]](https://deepwiki.org/)
+- Google Scholar：学术资源搜索与管理 [[🌐 官网链接 Official Website Link]](https://scholar.google.com/)
+- arXiv ：学术预印本平台 [[🌐 官网链接 Official Website Link]](https://arxiv.org/)
+- AMiner ：学术资源搜索与学术网络构建 [[🌐 官网链接 Official Website Link]](https://www.aminer.cn/)
+- DeepWiki ：AI 驱动的代码分析与交互式文档工具 [[🌐 官网链接 Official Website Link]](https://deepwiki.org/)
 
 ## 2. 🎲 环境配置 Environment Configuration
 - [Linux 教程：开发者必备技能指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/linux.md) [[🌐 官网链接 Official Website Link]](https://www.linux.org/)
