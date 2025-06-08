@@ -39,7 +39,7 @@
 
 ### 3.2. 拓展教程 Expanded Tutorials
 
-- [NiBabel 教程：神经影像数据处理入门](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/nibabel.md)  [[🌐 官网链接 Official Website Link]](https://docs.python.org/3/library/dataclasses.html)
+- [NiBabel 教程：神经影像数据处理入门](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/nibabel.md)  [[🌐 官网链接 Official Website Link]](https://nipy.org/nibabel/)
 - [Python dataclass 教程：简化类定义的利器](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/dataclass.md)  [[🌐 官网链接 Official Website Link]](https://docs.python.org/3/library/dataclasses.html)
 - [tqdm 教程：Python 进度条库](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/tqdm.md)  [[🌐 官网链接 Official Website Link]](https://tqdm.github.io/)
 - [Diffusers 教程：扩散模型开发终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/diffusers.md)  [[🌐 官网链接 Official Website Link]](https://huggingface.co/docs/diffusers/main/zh/index)
