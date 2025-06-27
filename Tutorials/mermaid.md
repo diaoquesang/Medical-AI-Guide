@@ -150,5 +150,3 @@ mmdc -i input.mmd -o output.svg
 
 ---  
 **立即实践**：将本教程中的示例代码粘贴到 [Mermaid Live Editor](https://mermaid.live) 即刻生成你的第一张动态图表！  
-
----
