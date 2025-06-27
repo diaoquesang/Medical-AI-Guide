@@ -48,6 +48,7 @@
 ## 4. ✒️ 论文写作 Essay Writing
 
 - [LaTeX 教程：高质量文档排版终极指南](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/latex.md)  [[🌐 官网链接 Official Website Link]](https://www.latex-project.org/)
+- [Markdown 教程：从零打造专业级技术文档](https://github.com/diaoquesang/Medical-AI-Guide/blob/main/Tutorials/markdown.md)  [[🌐 官网链接 Official Website Link]](https://www.markdown.cn/docs/intro/)
 
 ## 👍 Citation
 
