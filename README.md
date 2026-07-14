@@ -4,7 +4,7 @@
 
 [![Stars](https://img.shields.io/github/stars/diaoquesang/Medical-AI-Guide)](https://github.com/diaoquesang/Medical-AI-Guide) [![Stars](https://img.shields.io/github/forks/diaoquesang/Medical-AI-Guide)](https://github.com/diaoquesang/Medical-AI-Guide) [![Visitors](https://api.visitorbadge.io/api/visitors?path=diaoquesang/Medical-AI-Guide&countColor=%23263759&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=diaoquesang/Medical-AI-Guide)
 
-**欢迎以邮件申请的方式加入贡献者团队📧：[szhsxhsyf@hdu.edu.cn](mailto:szhsxhsyf@hdu.edu.cn)！**
+**欢迎以邮件申请的方式加入贡献者团队📧：[diaoquesang@gmail.com](mailto:diaoquesang@gmail.com)！**
 
 **🦉 贡献者团队成员：[孙逸飞](https://diaoquesang.github.io/)**
 
