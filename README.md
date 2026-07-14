@@ -8,10 +8,10 @@
 
 **🦉 贡献者团队成员：[孙逸飞](https://diaoquesang.github.io/)**
 
-<div>
+<!-- <div>
 <img src="https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection/blob/main/logos/HDU.png" height="45px" href="https://www.hdu.edu.cn/">
 <img src="https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection/blob/main/logos/ITMO.jpg" height="45px" href="https://en.itmo.ru/">
-</div>
+</div> -->
 
 ## 1. 📖 文献阅读 Paper Reading
 
